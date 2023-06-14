@@ -13,6 +13,7 @@ body{
     background: url('dn.jpg');
     background-size: cover;
     background-position: center;
+    background-color:blue;
 }
 header{
     position: fixed;
